@@ -1,1 +1,1 @@
-# magnomed
+# Magnomed
